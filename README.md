@@ -9,6 +9,8 @@
 
 > One-click **scrcpy wireless launcher** for Android screen mirroring over WiFi.
 > No manual commands — just plug once, connect, and mirror wirelessly.
+
+
 ![Release](https://img.shields.io/github/v/release/netphantom-og/scrcpy-wireless?style=for-the-badge)
 ![Downloads](https://img.shields.io/github/downloads/netphantom-og/scrcpy-wireless/total?style=for-the-badge)
 ![License](https://img.shields.io/github/license/netphantom-og/scrcpy-wireless?style=for-the-badge)
