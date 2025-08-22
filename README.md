@@ -1,7 +1,6 @@
 <head>
   <meta charset="UTF-8">
-  <meta name="google-site-verification" content="PUT-GOOGLE-TAG-HERE" />
-  <title>SCRCPY Wireless Launcher</title>
+  <meta name="google-site-verification" content="C69qm2NVXzJh9a8cIzDz6wqMqlA5_sUBr1cciWuKouQ" />
 </head>
 
 # SCRCPY Wireless Launcher 🚀
