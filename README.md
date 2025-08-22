@@ -54,12 +54,6 @@ C:\scrcpy-wireless
 
 ---
 
-## 📸 Screenshots / Demo
-
-*(Add GIFs/screenshots of phone mirroring here for SEO boost)*
-
----
-
 ## ⚠️ Troubleshooting
 
 * If phone not detected → reconnect via USB once
