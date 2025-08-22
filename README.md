@@ -74,12 +74,11 @@ C:\scrcpy-wireless
 * This launcher is by **netphantom.og**.
 
 ---
+## 🔗 Useful Links  
 
-## 🔗 Links
-
-* 📂 [Releases / Download](https://github.com/netphantom-og/scrcpy-wireless/releases)
-* 📝 [Wiki (Setup + FAQ)](https://github.com/netphantom-og/scrcpy-wireless/wiki)
-* ⭐ [Star this repo](https://github.com/netphantom-og/scrcpy-wireless/stargazers) if useful
+- 📦 **[Releases & Downloads](https://github.com/netphantom-og/scrcpy-wireless/releases)**  
+- 📖 **[Wiki (Setup Guide & FAQ)](https://github.com/netphantom-og/scrcpy-wireless/wiki)**  
+- ⭐ **[Star this Repository](https://github.com/netphantom-og/scrcpy-wireless/stargazers)** and support my project  
 
 ---
 
