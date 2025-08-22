@@ -1,4 +1,4 @@
-
+<meta name="google-site-verification" content="C69qm2NVXzJh9a8cIzDz6wqMqlA5_sUBr1cciWuKouQ" />
 # SCRCPY Wireless Launcher 🚀
 
 > One-click **scrcpy wireless launcher** for Android screen mirroring over WiFi.
