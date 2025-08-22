@@ -91,3 +91,26 @@ C:\scrcpy-wireless
   
 
 ---
+
+---
+
+<details>
+<summary>🔑 SEO Keywords (for search engines)</summary>
+
+- scrcpy wireless launcher  
+- mirror Android screen to PC wirelessly  
+- scrcpy wireless Windows 10  
+- adb wireless connect tool  
+- android screen mirroring tool  
+- one click scrcpy wireless  
+- scrcpy wireless without USB  
+- alternative to Miracast for Android  
+- free android screen mirroring PC  
+- android wireless display with scrcpy  
+- scrcpy launcher for Windows  
+- connect Android to PC without cable  
+- scrcpy adb connect automatically  
+- best tool to mirror Android phone to PC  
+- android screen control from PC wireless  
+</details>
+
