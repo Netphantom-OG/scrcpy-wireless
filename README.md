@@ -85,7 +85,7 @@ C:\scrcpy-wireless
 
 ## 📢 Author
 
-* GitHub: [@netphantomog](https://github.com/netphantom-og)
+* GitHub: [@netphantom-og](https://github.com/netphantom-og)
 * Instagram: [netphantom.og](https://instagram.com/netphantom.og)
 
   
