@@ -4,9 +4,9 @@
 > One-click **scrcpy wireless launcher** for Android screen mirroring over WiFi.
 > No manual commands — just plug once, connect, and mirror wirelessly.
 
-![Release](https://img.shields.io/github/v/release/netphantomog/scrcpy-wireless?style=for-the-badge)
-![Downloads](https://img.shields.io/github/downloads/netphantomog/scrcpy-wireless/total?style=for-the-badge)
-![License](https://img.shields.io/github/license/netphantomog/scrcpy-wireless?style=for-the-badge)
+![Release](https://img.shields.io/github/v/release/netphantom-og/scrcpy-wireless?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/netphantom-og/scrcpy-wireless/total?style=for-the-badge)
+![License](https://img.shields.io/github/license/netphantom-og/scrcpy-wireless?style=for-the-badge)
 
 ---
 
@@ -77,15 +77,15 @@ C:\scrcpy-wireless
 
 ## 🔗 Links
 
-* 📂 [Releases / Download](https://github.com/netphantomog/scrcpy-wireless/releases)
-* 📝 [Wiki (Setup + FAQ)](https://github.com/netphantomog/scrcpy-wireless/wiki)
-* ⭐ [Star this repo](https://github.com/netphantomog/scrcpy-wireless/stargazers) if useful
+* 📂 [Releases / Download](https://github.com/netphantom-og/scrcpy-wireless/releases)
+* 📝 [Wiki (Setup + FAQ)](https://github.com/netphantom-og/scrcpy-wireless/wiki)
+* ⭐ [Star this repo](https://github.com/netphantom-og/scrcpy-wireless/stargazers) if useful
 
 ---
 
 ## 📢 Author
 
-* GitHub: [@netphantomog](https://github.com/netphantomog)
+* GitHub: [@netphantomog](https://github.com/netphantom-og)
 * Instagram: [netphantom.og](https://instagram.com/netphantom.og)
 
   
